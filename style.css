@@ -62,3 +62,8 @@ html {
     font-family: 'Inconsolata', monospace;
 }
   
+.timer__button:hover,
+.timer__button:focus {
+    background: rgba(0,0,0,0.2);
+    outline: 0;
+}
