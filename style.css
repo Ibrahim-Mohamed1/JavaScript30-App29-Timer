@@ -11,7 +11,7 @@ html {
   
   body {
     margin: 0;
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Inconsolata', monospace;
 }
   
@@ -81,6 +81,7 @@ html {
     color: white;
 }
 .span{
+    text-align: left;
     font-size: 30px;
     margin-left: 10px;
     color: white;
